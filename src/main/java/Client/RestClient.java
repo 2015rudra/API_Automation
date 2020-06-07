@@ -42,9 +42,7 @@ public class RestClient {
 		CloseableHttpResponse response =  http.execute(httpget); //Hit the GET URL
 		return response;
 		
-		
-		
-		
+	
 	}
 	
 }
