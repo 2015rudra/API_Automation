@@ -11,6 +11,7 @@ public class TestBase
 	public static Properties prop;
 	
 	public static int response_code_200 = 200;
+	public static int response_code_201 = 201;
 	int response_code_404 = 404;
 	int response_code_401 = 401;
 	

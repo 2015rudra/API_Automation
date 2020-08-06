@@ -98,9 +98,7 @@ public class getAPITest extends TestBase
 		System.out.println(firstName);
 		System.out.println(email);
 		
-		
-		
-		
+				
 		
 
 		//TO get All Headers of Response JSON
